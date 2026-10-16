@@ -1,0 +1,34 @@
+{
+  "input_data": {
+    "columns": [
+      "antiguedad_meses",
+      "cuota_mensual",
+      "llamadas_soporte",
+      "incidencias_trimestre",
+      "tipo_contrato",
+      "metodo_pago"
+    ],
+    "index": [
+      0,
+      1
+    ],
+    "data": [
+      [
+        3,
+        45.0,
+        5,
+        3,
+        "Mensual",
+        "Transferencia"
+      ],
+      [
+        60,
+        20.0,
+        0,
+        0,
+        "Bienal",
+        "Domiciliacion"
+      ]
+    ]
+  }
+}

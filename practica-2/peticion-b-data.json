@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "antiguedad_meses": 3,
+      "cuota_mensual": 45.0,
+      "llamadas_soporte": 5,
+      "incidencias_trimestre": 3,
+      "tipo_contrato": "Mensual",
+      "metodo_pago": "Transferencia"
+    },
+    {
+      "antiguedad_meses": 60,
+      "cuota_mensual": 20.0,
+      "llamadas_soporte": 0,
+      "incidencias_trimestre": 0,
+      "tipo_contrato": "Bienal",
+      "metodo_pago": "Domiciliacion"
+    }
+  ]
+}
