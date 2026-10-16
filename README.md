@@ -73,7 +73,7 @@ Es un problema de **clasificación**: el modelo aprende de datos históricos y d
 
    | Pantalla | Qué hacer |
    |---|---|
-   | Tipo de datos | Nombre: `clientes-baja` · Tipo: **Tabla** |
+   | Tipo de datos | Nombre: `clientes-baja` · Tipo: **Tabular** |
    | Origen de datos | **Desde archivos locales** |
    | Tipo de almacenamiento de destino | Deja el predeterminado (`workspaceblobstore`) |
    | **Elija un archivo o carpeta** | Pulsa **Cargar archivos o carpeta** → elige archivos → `clientes-baja.csv`. Deja sin marcar *Sobrescribir si ya existe*. Los tipos admitidos son delimitados (.csv, .tsv), Parquet, líneas JSON y texto sin formato. |
